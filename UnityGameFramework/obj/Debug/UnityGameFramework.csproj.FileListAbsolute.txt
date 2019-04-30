@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\UnityGameFramework\UnityGameFramework\obj\Debug\UnityGameFramework.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UnityGameFramework\UnityGameFramework\obj\Debug\UnityGameFramework.csproj.CoreCompileInputs.cache
